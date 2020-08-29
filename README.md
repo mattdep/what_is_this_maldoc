@@ -3,9 +3,9 @@ For all those times you're asking yourself "what is this maldoc again?"
 
 Based off misterch0c's what is this c2 but for maldocs: https://github.com/misterch0c/what_is_this_c2
 
-##Emotet
+## Emotet
 
-###"Red Dawn" Template
+### "Red Dawn" Template
 
 ![alt text](./images/emotet-red-dawn-template.png "Emotet Red Dawn Template")
 
@@ -30,7 +30,7 @@ Malware sample: https://app.any.run/tasks/1bc669d1-d924-452e-b9f6-003e352481c8/
 Lure picture VT Link: https://www.virustotal.com/gui/file/9d7a7d55d92b3d1e8cf3dc7cb78034372d9c55789c75d85230c4f12a3ff49109
 ```
 
-###"IOS Enable Edition" Template
+### "IOS Enable Edition" Template
 
 ![alt text](./images/emotet-ios-enable-edition-template.png "Emotet IOS Enable Edition Template")
 
