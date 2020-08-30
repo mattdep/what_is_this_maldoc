@@ -1,5 +1,0 @@
-Emotet
-
-Qbot / Qakbot
-
-ZLoader
