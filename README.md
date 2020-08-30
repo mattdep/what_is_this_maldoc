@@ -3,6 +3,39 @@ For all those times you're asking yourself "what is this maldoc again?"
 
 Based off misterch0c's what is this c2 but for maldocs: https://github.com/misterch0c/what_is_this_c2
 
+## Dridex
+
+![alt text](./images/dridex-001.png "Dridex")
+
+Picture Hashes:
+```
+MD5 5eb0d853c8f051ae118f4b0a0a8c145d
+SHA-1 d797e81f94929963cd12823581188b53aff44494
+SHA-256 536936df4750acb8a6e64a304e60ba4c74c0fb8354b01b3d82d3b410eb8226e4 
+
+MD5 fdba5cb8ba272e19f812adbe334e7f37
+SHA-1 f4ce0f3a948e5517cc64573c4e660a0534299916
+SHA-256 e96c71c6c4f200fb04a46d631edba126eb9ba29e57cf58ca2ff0061d27c169ff 
+
+MD5 38169da54d84f7aba9948109bff21816
+SHA-1 8de7541b74190acc436d025b427db2e02c12d938
+SHA-256 f99eb4a2792710146fd7f333cbdf595cacf43ddd7e79eab75564c9c9772c93aa 
+```
+
+Document Text:
+
+```
+All-Open and pay
+```
+
+Links
+```
+Malware sample: https://app.any.run/tasks/ab5537b4-8c2b-4779-bd18-a8e4376c8286/
+Lure picture VT Link: https://www.virustotal.com/gui/file/536936df4750acb8a6e64a304e60ba4c74c0fb8354b01b3d82d3b410eb8226e4/detection
+Lure picture VT Link: https://www.virustotal.com/gui/file/e96c71c6c4f200fb04a46d631edba126eb9ba29e57cf58ca2ff0061d27c169ff/detection
+Lure picture VT Link: https://www.virustotal.com/gui/file/f99eb4a2792710146fd7f333cbdf595cacf43ddd7e79eab75564c9c9772c93aa/detection
+```
+
 ## Emotet
 
 ### "Red Dawn" Template
@@ -49,6 +82,83 @@ Links
 ```
 Malware sample: https://app.any.run/tasks/83e47a5a-506d-4971-9332-acb364ddec1d/
 Lure picture VT Link: https://www.virustotal.com/gui/file/40e748633449a369ac284166c849b9a2a3ad2e7c82fb37ee1d2037b11ed1f060
+```
+
+## Hancitor
+
+![alt text](./images/hancitor-003.png "Hancitor")
+
+Picture Hashes:
+```
+MD5 fa0bb8740893178f50fe588c699c5229
+SHA-1 e7c5f70732cca56bb4d0b79fee7b36f8f560e362
+SHA-256 b03f3c35896cd0e36527b485bb846d1058b0015cd423da908cb97f33f5844f13 
+```
+
+Document Text:
+
+```
+This document is protected
+To open the document, follow these steps:
+This document is only available for desktop or laptop versions of Microsoft Office Excel
+Click Enable editing button from the yellow bar above
+Once you have enabled editing, please click Enable content button from the yellow bar above
+```
+
+Links
+```
+Malware sample: https://app.any.run/tasks/ab9808d6-6b19-46bf-b396-7c3cc49340c8/
+Lure picture VT Link: https://www.virustotal.com/gui/file/b03f3c35896cd0e36527b485bb846d1058b0015cd423da908cb97f33f5844f13/details
+```
+
+![alt text](./images/hancitor-001.png "Hancitor")
+
+Picture Hashes:
+```
+MD5 6697115f4d556c361be6c25b90e3cd4f
+SHA-1 663a80c43e433030af39aa6061bcca50643e3b05
+SHA-256 3994ec9595a2f39057dcc20e664110a6f16c7c531542a32bba82c6b77f213991 
+```
+
+Document Text:
+
+```
+This document is protected
+To open the document, follow these steps:
+This document is only available for desktop or laptop versions of Microsoft Office Excel
+Click Enable editing button from the yellow bar above
+Once you have enabled editing, please click Enable content button from the yellow bar above
+```
+
+Links
+```
+Malware sample: https://app.any.run/tasks/f114d2e3-27ff-4e1b-aa77-7d9471a56b42/
+Lure picture VT Link: https://www.virustotal.com/gui/file/3994ec9595a2f39057dcc20e664110a6f16c7c531542a32bba82c6b77f213991
+```
+
+![alt text](./images/hancitor-002.png "Hancitor")
+
+Picture Hashes:
+```
+MD5 b62c138f8eaa2cc3109e3fc5379840d4
+SHA-1 45adaed167ed9858818310dd72e71429ea42afcc
+SHA-256 fd7b9854da7324dcfee74398368f4c86c7d2345e0022c5f1ab7280ee2262796d 
+```
+
+Document Text:
+
+```
+This document is protected
+To view this document, follow the instructions below:
+This document is only available for desktop or laptop versions of Microsoft Office Excel
+Click Enable editing button from the yellow bar above
+Once you have enabled editing, please click Enable content button from the yellow bar above
+```
+
+Links
+```
+Malware sample: https://app.any.run/tasks/e74a73fa-88c6-4836-9536-82b9b5a07fe6/
+Lure picture VT Link: https://www.virustotal.com/gui/file/fd7b9854da7324dcfee74398368f4c86c7d2345e0022c5f1ab7280ee2262796d/details
 ```
 
 ## Qakbot / Qbot
