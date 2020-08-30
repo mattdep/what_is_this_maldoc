@@ -11,9 +11,9 @@ Based off misterch0c's what is this c2 but for maldocs: https://github.com/miste
 
 Picture Hashes:
 ```
-MD5 - 0B1529E1C2F7579AC605534B123BE006
-SHA1 - 624A9C539555C1569D0DB920B095468DDCEBA18F 
-SHA256 - 9D7A7D55D92B3D1E8CF3DC7CB78034372D9C55789C75D85230C4F12A3FF49109
+MD5 0B1529E1C2F7579AC605534B123BE006
+SHA1 624A9C539555C1569D0DB920B095468DDCEBA18F 
+SHA256 9D7A7D55D92B3D1E8CF3DC7CB78034372D9C55789C75D85230C4F12A3FF49109
 ```
 
 Picture Text:
@@ -36,9 +36,9 @@ Lure picture VT Link: https://www.virustotal.com/gui/file/9d7a7d55d92b3d1e8cf3dc
 
 Picture Hashes:
 ```
-MD5 - 749B9D18820AD25B4BCFBDC9BCC0F729
-SHA1 -  FBCA818C86A68F5C7379C711C26E2FD17901B41C
-SHA256 - 40E748633449A369AC284166C849B9A2A3AD2E7C82FB37EE1D2037B11ED1F060
+MD5 749B9D18820AD25B4BCFBDC9BCC0F729
+SHA-1 FBCA818C86A68F5C7379C711C26E2FD17901B41C
+SHA-256 40E748633449A369AC284166C849B9A2A3AD2E7C82FB37EE1D2037B11ED1F060
 ```
 Text:
 ```
@@ -57,9 +57,9 @@ Lure picture VT Link: https://www.virustotal.com/gui/file/40e748633449a369ac2841
 
 Picture Hashes:
 ```
-MD5 - b3b2a528566f121b4cfb6a9d815fb23a 
-SHA1 - 1bb86e627d62375b8d69d9ab1f9d8a4fff3df2cc 
-SHA256 - 9860e32498af9619471357247c303018d4e80827aa3f3fc8c24d1168e8b70262
+MD5 b3b2a528566f121b4cfb6a9d815fb23a 
+SHA-1 1bb86e627d62375b8d69d9ab1f9d8a4fff3df2cc 
+SHA-256 9860e32498af9619471357247c303018d4e80827aa3f3fc8c24d1168e8b70262
 ```
 
 Document Text:
@@ -74,16 +74,16 @@ To convert images size and view full content, please click:
 Links
 ```
 Malware sample: https://app.any.run/tasks/91c822e7-86f4-4854-ab43-202f9a7bec26/
-Lure picture VT Link: https://www.virustotal.com/gui/file/9860e32498af9619471357247c303018d4e80827aa3f3fc8c24d1168e8b70262/relations```
+Lure picture VT Link: https://www.virustotal.com/gui/file/9860e32498af9619471357247c303018d4e80827aa3f3fc8c24d1168e8b70262/relations
 ```
 
 ![alt text](./images/qbot.png "Qbot")
 
 Picture Hashes:
 ```
-MD5 - 64C7FFF6F4720C3F7B9B843331FB31BB 
-SHA1 -  EF72CEC7B2070524FD0C4B5A4364919FBC1ABEB2
-SHA256 - 39536CCD3D2BCB0BABCAEEAF9A316359D50F0558C6620B87D3663EE1CC156BB5
+MD5 64C7FFF6F4720C3F7B9B843331FB31BB 
+SHA-1 EF72CEC7B2070524FD0C4B5A4364919FBC1ABEB2
+SHA-256 39536CCD3D2BCB0BABCAEEAF9A316359D50F0558C6620B87D3663EE1CC156BB5
 ```
 
 Document Text:
@@ -96,7 +96,106 @@ To view this content, please click "Enable Editing" from the yellow bar and then
 Links
 ```
 Malware sample: https://app.any.run/tasks/cbd7be1c-aa7f-49bc-bb13-836c84f24b06/
-Lure picture VT Link: https://www.virustotal.com/gui/file/39536ccd3d2bcb0babcaeeaf9a316359d50f0558c6620b87d3663ee1cc156bb5```
+Lure picture VT Link: https://www.virustotal.com/gui/file/39536ccd3d2bcb0babcaeeaf9a316359d50f0558c6620b87d3663ee1cc156bb5
+```
+
+## Shathak / TA551
+
+![alt text](./images/shathak-001.png "Shathak / TA551")
+
+Picture Hashes:
+```
+MD5 6ad5aebd172b06d81f596627c19c3551
+SHA-1 1a1b038cbfd645d122bd20252b2c105af715d4da
+SHA-256 66ac2ff2a0c49f78f5c3823681ecef6c60da5eca1bdf003cc1536c4ba4f209ff 
+```
+
+Document Text:
+
+```
+This document created in previous version of Microsoft Office Word
+To view or edit this document, please click "Enable editing" button on the top bar, and then click "Enable content"
+```
+
+Links
+```
+Malware sample: https://app.any.run/tasks/c33bd52b-f56e-486f-9b7f-55ac112e8554/
+Lure picture VT Link: https://www.virustotal.com/gui/file/66ac2ff2a0c49f78f5c3823681ecef6c60da5eca1bdf003cc1536c4ba4f209ff/relations
+```
+
+## Trickbot
+
+![alt text](./images/trickbot-001.png "Trickbot")
+
+Picture Hashes:
+```
+MD5 ca45cfaa099375ccffb9118631cc7b43
+SHA-1 3132f974ec701d60b1c76a1aff694cc14739aff6
+SHA-256 37cc23aa1c56d5e97d53d3852958bae51b3db746da659d0558cc23051f2f9865 
+
+MD5 c5aede0b4df2cbbbe78ad02ee84b10dd
+SHA-1 6ed5cbc070df409f820e978ed95bc4d4c1449692
+SHA-256 398dbeda4d9040b2406acd4be0f0f218e63addaea9bf93aa8d1e090921ea1923
+
+MD5 cb5229a164f1d2b3a2471e30b96d4ae5
+SHA-1 3a68ac601db3c99baaa0a24baf9df9ea66b55357
+SHA-256 a2d37efa03e50c1fcb70cdb334a3cddea904ee7293ed5011b2c6a4f7b982a0ca
+
+MD5 ac8c3f36d61e18c977103c168c9ebe28
+SHA-1 60112b4d0bf757501319085795015c3091521df8
+SHA-256 a0bffccbf5251af61e1991e00df894b416ab25ed28e28bd37c9c99760fb05f05
+```
+
+Document Text:
+
+```
+Online preview is not available for this document
+This document was created in an earlier version of Microsoft Office Word
+To change image size and view full content, please perform the following steps:
+"Enable Editing" on the yellow bar above and then click "Enable Content"
+```
+
+Links
+```
+Malware sample: https://app.any.run/tasks/838ef026-b5bf-410d-b308-98341a533ab9/
+Lure picture VT Link: https://www.virustotal.com/gui/file/37cc23aa1c56d5e97d53d3852958bae51b3db746da659d0558cc23051f2f9865/detection
+Lure picture VT Link: https://www.virustotal.com/gui/file/a2d37efa03e50c1fcb70cdb334a3cddea904ee7293ed5011b2c6a4f7b982a0ca/detection
+Lure picture VT Link: https://www.virustotal.com/gui/file/398dbeda4d9040b2406acd4be0f0f218e63addaea9bf93aa8d1e090921ea1923/detection
+Lure picture VT Link: https://www.virustotal.com/gui/file/a0bffccbf5251af61e1991e00df894b416ab25ed28e28bd37c9c99760fb05f05/detection
+```
+
+![alt text](./images/trickbot-002.png "Trickbot")
+
+Picture Hashes:
+```
+MD5 ca45cfaa099375ccffb9118631cc7b43
+SHA-1 3132f974ec701d60b1c76a1aff694cc14739aff6
+SHA-256 37cc23aa1c56d5e97d53d3852958bae51b3db746da659d0558cc23051f2f9865 
+
+MD5 9865c264c66535d3b55981954e855e95
+SHA-1 c1a2979be0c232f5f636f32a9cfae2d879de3917
+SHA-256 6019abbfabd990b7c155078b908795be6a8bd0c40ec0eb218ab67cf0e185df55 
+
+MD5 ac8c3f36d61e18c977103c168c9ebe28
+SHA-1 60112b4d0bf757501319085795015c3091521df8
+SHA-256 a0bffccbf5251af61e1991e00df894b416ab25ed28e28bd37c9c99760fb05f05 
+```
+
+Document Text:
+
+```
+Online preview is not available for this document
+This document was created in an earlier version of Microsoft Office Word
+To change image size and view full content, please perform the following steps:
+"Enable Editing" on the yellow bar above and then click "Enable Content"
+```
+
+Links
+```
+Malware sample: https://app.any.run/tasks/6729bd11-6a89-4052-9445-4a0233313f8a/
+Lure picture VT Link: https://www.virustotal.com/gui/file/37cc23aa1c56d5e97d53d3852958bae51b3db746da659d0558cc23051f2f9865/detection
+Lure picture VT Link: https://www.virustotal.com/gui/file/6019abbfabd990b7c155078b908795be6a8bd0c40ec0eb218ab67cf0e185df55/detection
+Lure picture VT Link: https://www.virustotal.com/gui/file/a0bffccbf5251af61e1991e00df894b416ab25ed28e28bd37c9c99760fb05f05/detection
 ```
 
 ## ZLoader
