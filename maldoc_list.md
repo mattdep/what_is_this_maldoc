@@ -1,2 +1,3 @@
 Emotet
+Qbot / Qakbot
 ZLoader
