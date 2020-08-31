@@ -39,6 +39,31 @@ Lure picture VT Link: https://www.virustotal.com/gui/file/f99eb4a2792710146fd7f3
 
 ## Emotet
 
+### "Windows 10 Mobile" / "win10_mobile" Template
+
+![alt text](./images/emotet-win10-mobile-template.png "Emotet Windows 10 Mobile")
+
+Document Text:
+
+```
+Operation did not complete successfully because the file was created on Windows 10 Mobile device.
+To view and edit document click Enable Editing and then click Enable Content.
+```
+
+Picture Hashes:
+
+```
+MD5 48525c6f363aa443cd1d14344aac7a10
+SHA-1 98af9c162e7dbe00bd9bbbb3a14f28f78e8332a8
+SHA-256 30d1bb2781816fc8168918053b2047b6dc57f5d15eb90daf459df459903d5eb7 
+```
+
+Links:
+
+Malware sample: https://app.any.run/tasks/b766dd2a-036b-4f6e-8cbc-6c9d70699017/
+
+Lure picture VT Link: https://www.virustotal.com/gui/file/30d1bb2781816fc8168918053b2047b6dc57f5d15eb90daf459df459903d5eb7/details
+
 ### "Red Dawn" Template
 
 ![alt text](./images/emotet-red-dawn-template.png "Emotet Red Dawn Template")
